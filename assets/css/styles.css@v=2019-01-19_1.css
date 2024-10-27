@@ -106,7 +106,7 @@ p {
 }
 .font-pricedown{
     font-family: PricedownC, 'Questrial','Helvetica Neue',Arial,sans-serif;
-    color: #d29310;
+    color: #ff00ff;
 }
 .nav>li .active{
     color: #00a651;
